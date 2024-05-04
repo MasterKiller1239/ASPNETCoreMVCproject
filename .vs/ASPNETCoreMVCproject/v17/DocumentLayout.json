@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPNETCoreMVCproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|d:\\aspnetcoremvcproject\\carworkshop.mvc\\views\\carworkshop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\carworkshop\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|D:\\ASPNETCoreMVCproject\\carworkshop.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|d:\\aspnetcoremvcproject\\carworkshop.mvc\\carworkshop.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\carworkshop.mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|d:\\aspnetcoremvcproject\\carworkshop.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|D:\\ASPNETCoreMVCproject\\carworkshop.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|D:\\ASPNETCoreMVCproject\\carworkshop.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|D:\\ASPNETCoreMVCproject\\carworkshop.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|D:\\ASPNETCoreMVCproject\\carworkshop.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88014B61-FE20-4073-9339-5F26BB4BCB71}|CarWorkshop.MVC\\CarWorkshop.MVC.csproj|solutionrelative:carworkshop.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\CarWorkshop\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T08:26:50.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarWorkshop.MVC",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "RelativeToolTip": "CarWorkshop.MVC\\CarWorkshop.MVC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-04T08:25:27.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T07:23:00.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T07:22:53.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CarWorkshop.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T07:22:45.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CarWorkshop.MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:57:11.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CarWorkshop.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:56:43.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CarWorkshop.MVC\\Program.cs",
+              "ToolTip": "D:\\ASPNETCoreMVCproject\\CarWorkshop.MVC\\Program.cs",
+              "RelativeToolTip": "CarWorkshop.MVC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T06:43:41.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
